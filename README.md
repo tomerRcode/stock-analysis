@@ -1,5 +1,10 @@
 # AI Hedge Fund: Enterprise Value Investing System
 
+> **⚠️ DISCLAIMER: NOT FINANCIAL ADVICE**
+> This repository is for **educational and research purposes only**. The code, agents, and strategies contained herein do not constitute financial advice, investment recommendations, or an offer to buy or sell any securities. Trading in financial markets involves significant risk of loss. You are solely responsible for any financial decisions you make. The author(s) assume no liability for any financial losses or damages incurred by using this software.
+
+
+
 This project is a fully automated, multi-agent AI Hedge Fund built on the principles of Warren Buffett (Value Investing), supercharged by modern quantitative mathematics, alternative data, and Artificial General Intelligence (AGI) architecture.
 
 ## 🏗️ System Architecture & Pipeline
