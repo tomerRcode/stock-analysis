@@ -1,0 +1,14 @@
+[
+    {
+        "regime": "[BEAR-DEFLATION]",
+        "rule": "RULE (Number Cruncher): In [BEAR-DEFLATION], entirely ignore low P/E ratios if the Altman Z-Score indicates bankruptcy risk. A cheap stock going to zero is still zero. Survival > Valuation."
+    },
+    {
+        "regime": "[BULL-GOLDILOCKS]",
+        "rule": "RULE (Strategist): In [BULL-GOLDILOCKS], relax strict P/E limits for software companies exhibiting extreme Network Effects and >50% YoY revenue growth. Do not fight the Fed."
+    },
+    {
+        "regime": "[BEAR-STAGFLATION]",
+        "rule": "RULE (Risk Analyst): In [BEAR-STAGFLATION], automatically reject all 'unprofitable tech/innovation' regardless of the narrative. When cost of capital rises, positive free cash flow is mandatory."
+    }
+]
